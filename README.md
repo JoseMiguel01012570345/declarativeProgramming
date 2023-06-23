@@ -1,5 +1,5 @@
 ## declarativeProgramming project 
-#Step to run
+#Step to run:
 In console -> go to the program root and type ./main.hs
 
 #Note:
